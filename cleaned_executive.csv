@@ -1,0 +1,132 @@
+full_name,gender,birthdate,birthday,zodiac_sign,zodiac_color,zodiac_element,zodiac_element_color,type,party,start_term,end_term,age_start,age_end,duration_years_months_days,total_duration_years
+George Washington,M,1732-02-22,02-22,Pisces,#40E0D0,Water,#4682B4,prez,no party,1789-04-30,1793-03-04,57,61,"3 years, 10 months, 4 days",3.85
+George Washington,M,1732-02-22,02-22,Pisces,#40E0D0,Water,#4682B4,prez,no party,1793-03-04,1797-03-04,61,65,"4 years, 0 months, 0 days",4.0
+John Adams,M,1735-10-19,10-19,Libra,#FFB6C1,Air,#87CEEB,viceprez,Federalist,1789-04-21,1793-03-04,53,57,"3 years, 10 months, 11 days",3.87
+John Adams,M,1735-10-19,10-19,Libra,#FFB6C1,Air,#87CEEB,viceprez,Federalist,1793-03-04,1797-03-04,57,61,"4 years, 0 months, 0 days",4.0
+John Adams,M,1735-10-19,10-19,Libra,#FFB6C1,Air,#87CEEB,prez,Federalist,1797-03-04,1801-03-04,61,65,"4 years, 0 months, 0 days",4.0
+Thomas Jefferson,M,1743-04-13,04-13,Aries,#FF0000,Fire,#FF4500,viceprez,Democratic-Republican,1797-03-04,1801-03-04,53,57,"4 years, 0 months, 0 days",4.0
+Thomas Jefferson,M,1743-04-13,04-13,Aries,#FF0000,Fire,#FF4500,prez,Democratic-Republican,1801-03-04,1805-03-04,57,61,"4 years, 0 months, 0 days",4.0
+Thomas Jefferson,M,1743-04-13,04-13,Aries,#FF0000,Fire,#FF4500,prez,Democratic-Republican,1805-03-04,1809-03-04,61,65,"4 years, 0 months, 0 days",4.0
+Aaron Burr Jr.,M,1756-02-06,02-06,Aquarius,#0000FF,Air,#87CEEB,viceprez,Democratic-Republican,1801-03-04,1805-03-04,45,49,"4 years, 0 months, 0 days",4.0
+George Clinton,M,1739-07-26,07-26,Leo,#FFA500,Fire,#FF4500,viceprez,Democratic-Republican,1805-03-04,1809-03-04,65,69,"4 years, 0 months, 0 days",4.0
+George Clinton,M,1739-07-26,07-26,Leo,#FFA500,Fire,#FF4500,viceprez,Democratic-Republican,1809-03-04,1812-04-20,69,72,"3 years, 1 month, 16 days",3.13
+Elbridge Gerry,M,1744-07-17,07-17,Cancer,#00008B,Water,#4682B4,viceprez,Democratic-Republican,1813-03-04,1814-11-23,68,70,"1 year, 8 months, 19 days",1.72
+James Madison,M,1751-03-16,03-16,Pisces,#40E0D0,Water,#4682B4,prez,Democratic-Republican,1809-03-04,1813-03-04,57,61,"4 years, 0 months, 0 days",4.0
+James Madison,M,1751-03-16,03-16,Pisces,#40E0D0,Water,#4682B4,prez,Democratic-Republican,1813-03-04,1817-03-04,61,65,"4 years, 0 months, 0 days",4.0
+Daniel D. Tompkins,M,1774-06-21,06-21,Cancer,#00008B,Water,#4682B4,viceprez,Democratic-Republican,1817-03-04,1821-03-05,42,46,"4 years, 0 months, 1 day",4.01
+Daniel D. Tompkins,M,1774-06-21,06-21,Cancer,#00008B,Water,#4682B4,viceprez,Democratic-Republican,1821-03-05,1825-03-04,46,50,"3 years, 11 months, 27 days",4.0
+James Monroe,M,1758-04-28,04-28,Taurus,#008000,Earth,#8B4513,prez,Democratic-Republican,1817-03-04,1821-03-05,58,62,"4 years, 0 months, 1 day",4.01
+James Monroe,M,1758-04-28,04-28,Taurus,#008000,Earth,#8B4513,prez,Democratic-Republican,1821-03-05,1825-03-04,62,66,"3 years, 11 months, 27 days",4.0
+John Quincy Adams,M,1767-07-11,07-11,Cancer,#00008B,Water,#4682B4,prez,Democratic-Republican,1825-03-04,1829-03-04,57,61,"4 years, 0 months, 0 days",4.0
+John Caldwell Calhoun,M,1782-03-18,03-18,Pisces,#40E0D0,Water,#4682B4,viceprez,Democratic-Republican,1825-03-04,1829-03-04,42,46,"4 years, 0 months, 0 days",4.0
+John Caldwell Calhoun,M,1782-03-18,03-18,Pisces,#40E0D0,Water,#4682B4,viceprez,Democrat,1829-03-04,1832-12-28,46,50,"3 years, 9 months, 24 days",3.82
+Andrew Jackson,M,1767-03-15,03-15,Pisces,#40E0D0,Water,#4682B4,prez,Democrat,1829-03-04,1833-03-04,61,65,"4 years, 0 months, 0 days",4.0
+Andrew Jackson,M,1767-03-15,03-15,Pisces,#40E0D0,Water,#4682B4,prez,Democrat,1833-03-04,1837-03-04,65,69,"4 years, 0 months, 0 days",4.0
+Richard Mentor Johnson,M,1780-10-17,10-17,Libra,#FFB6C1,Air,#87CEEB,viceprez,Democrat,1837-03-04,1841-03-04,56,60,"4 years, 0 months, 0 days",4.0
+Martin Van Buren,M,1782-12-05,12-05,Sagittarius,#800080,Fire,#FF4500,viceprez,Democrat,1833-03-04,1837-03-04,50,54,"4 years, 0 months, 0 days",4.0
+Martin Van Buren,M,1782-12-05,12-05,Sagittarius,#800080,Fire,#FF4500,prez,Democrat,1837-03-04,1841-03-04,54,58,"4 years, 0 months, 0 days",4.0
+William Henry Harrison,M,1773-02-09,02-09,Aquarius,#0000FF,Air,#87CEEB,prez,Whig,1841-03-04,1841-04-04,68,68,"0 years, 1 month, 0 days",0.08
+John Tyler,M,1790-03-29,03-29,Aries,#FF0000,Fire,#FF4500,viceprez,Whig,1841-03-04,1841-04-04,50,51,"0 years, 1 month, 0 days",0.08
+John Tyler,M,1790-03-29,03-29,Aries,#FF0000,Fire,#FF4500,prez,Whig,1841-04-04,1845-03-04,51,54,"3 years, 11 months, 0 days",3.92
+George Mifflin Dallas,M,1792-07-10,07-10,Cancer,#00008B,Water,#4682B4,viceprez,Democrat,1845-03-04,1849-03-04,52,56,"4 years, 0 months, 0 days",4.0
+James Knox Polk,M,1795-11-02,11-02,Scorpio,#000000,Water,#4682B4,prez,Democrat,1845-03-04,1849-03-04,49,53,"4 years, 0 months, 0 days",4.0
+Zachary Taylor,M,1784-11-24,11-24,Sagittarius,#800080,Fire,#FF4500,prez,Whig,1849-03-04,1850-07-09,64,65,"1 year, 4 months, 5 days",1.35
+Millard Fillmore,M,1800-01-07,01-07,Capricorn,#556B2F,Earth,#8B4513,viceprez,Whig,1849-03-04,1850-07-09,49,50,"1 year, 4 months, 5 days",1.35
+Millard Fillmore,M,1800-01-07,01-07,Capricorn,#556B2F,Earth,#8B4513,prez,Whig,1850-07-09,1853-03-04,50,53,"2 years, 7 months, 23 days",2.65
+William Rufus de Vane King,M,1786-04-07,04-07,Aries,#FF0000,Fire,#FF4500,viceprez,Democrat,1853-03-04,1853-04-18,66,67,"0 years, 1 month, 14 days",0.12
+Franklin Pierce,M,1804-11-23,11-23,Sagittarius,#800080,Fire,#FF4500,prez,Democrat,1853-03-04,1857-03-04,48,52,"4 years, 0 months, 0 days",4.0
+John Cabell Breckinridge,M,1821-01-16,01-16,Capricorn,#556B2F,Earth,#8B4513,viceprez,Democrat,1857-03-04,1861-03-04,36,40,"4 years, 0 months, 0 days",4.0
+James Buchanan,M,1791-04-23,04-23,Taurus,#008000,Earth,#8B4513,prez,Democrat,1857-03-04,1861-03-04,65,69,"4 years, 0 months, 0 days",4.0
+Hannibal Hamlin,M,1809-08-27,08-27,Virgo,#A52A2A,Earth,#8B4513,viceprez,Republican,1861-03-04,1865-03-04,51,55,"4 years, 0 months, 0 days",4.0
+Abraham Lincoln,M,1809-02-12,02-12,Aquarius,#0000FF,Air,#87CEEB,prez,Republican,1861-03-04,1865-03-04,52,56,"4 years, 0 months, 0 days",4.0
+Abraham Lincoln,M,1809-02-12,02-12,Aquarius,#0000FF,Air,#87CEEB,prez,Republican,1865-03-04,1865-04-15,56,56,"0 years, 1 month, 11 days",0.12
+Andrew Johnson,M,1808-12-29,12-29,Capricorn,#556B2F,Earth,#8B4513,viceprez,Democrat,1865-03-04,1865-04-15,56,56,"0 years, 1 month, 11 days",0.12
+Andrew Johnson,M,1808-12-29,12-29,Capricorn,#556B2F,Earth,#8B4513,prez,Democrat,1865-04-15,1869-03-04,56,60,"3 years, 10 months, 17 days",3.89
+Schuyler Colfax,M,1823-03-23,03-23,Aries,#FF0000,Fire,#FF4500,viceprez,Republican,1869-03-04,1873-03-04,45,49,"4 years, 0 months, 0 days",4.0
+Henry Wilson,M,1812-02-16,02-16,Aquarius,#0000FF,Air,#87CEEB,viceprez,Republican,1873-03-04,1875-11-22,61,63,"2 years, 8 months, 18 days",2.72
+Ulysses Simpson Grant,M,1822-04-27,04-27,Taurus,#008000,Earth,#8B4513,prez,Republican,1869-03-04,1873-03-04,46,50,"4 years, 0 months, 0 days",4.0
+Ulysses Simpson Grant,M,1822-04-27,04-27,Taurus,#008000,Earth,#8B4513,prez,Republican,1873-03-04,1877-03-04,50,54,"4 years, 0 months, 0 days",4.0
+William Almon Wheeler,M,1819-06-30,06-30,Cancer,#00008B,Water,#4682B4,viceprez,Republican,1877-03-04,1881-03-04,57,61,"4 years, 0 months, 0 days",4.0
+Rutherford Birchard Hayes,M,1822-10-04,10-04,Libra,#FFB6C1,Air,#87CEEB,prez,Republican,1877-03-04,1881-03-04,54,58,"4 years, 0 months, 0 days",4.0
+James Abram Garfield,M,1831-11-19,11-19,Scorpio,#000000,Water,#4682B4,prez,Republican,1881-03-04,1881-09-19,49,49,"0 years, 6 months, 15 days",0.55
+Chester Alan Arthur,M,1829-10-05,10-05,Libra,#FFB6C1,Air,#87CEEB,viceprez,Republican,1881-03-04,1881-09-19,51,51,"0 years, 6 months, 15 days",0.55
+Chester Alan Arthur,M,1829-10-05,10-05,Libra,#FFB6C1,Air,#87CEEB,prez,Republican,1881-09-19,1885-03-04,51,55,"3 years, 5 months, 13 days",3.46
+Thomas Andrews Hendricks,M,1819-09-07,09-07,Virgo,#A52A2A,Earth,#8B4513,viceprez,Democrat,1885-03-04,1885-11-25,65,66,"0 years, 8 months, 21 days",0.73
+Levi Parsons Morton,M,1824-05-16,05-16,Taurus,#008000,Earth,#8B4513,viceprez,Republican,1889-03-04,1893-03-04,64,68,"4 years, 0 months, 0 days",4.0
+Benjamin Harrison,M,1833-08-20,08-20,Leo,#FFA500,Fire,#FF4500,prez,Republican,1889-03-04,1893-03-04,55,59,"4 years, 0 months, 0 days",4.0
+Adlai Ewing Stevenson,M,1835-10-23,10-23,Scorpio,#000000,Water,#4682B4,viceprez,Democrat,1893-03-04,1897-03-04,57,61,"4 years, 0 months, 0 days",4.0
+Grover Cleveland,M,1837-03-18,03-18,Pisces,#40E0D0,Water,#4682B4,prez,Democrat,1885-03-04,1889-03-04,47,51,"4 years, 0 months, 0 days",4.0
+Grover Cleveland,M,1837-03-18,03-18,Pisces,#40E0D0,Water,#4682B4,prez,Democrat,1893-03-04,1897-03-04,55,59,"4 years, 0 months, 0 days",4.0
+Garret Augustus Hobart,M,1844-06-03,06-03,Gemini,#FFFF00,Air,#87CEEB,viceprez,Republican,1897-03-04,1899-11-21,52,55,"2 years, 8 months, 17 days",2.72
+William McKinley Jr.,M,1843-01-29,01-29,Aquarius,#0000FF,Air,#87CEEB,prez,Republican,1897-03-04,1901-03-04,54,58,"4 years, 0 months, 0 days",4.0
+William McKinley Jr.,M,1843-01-29,01-29,Aquarius,#0000FF,Air,#87CEEB,prez,Republican,1901-03-04,1901-09-14,58,58,"0 years, 6 months, 10 days",0.53
+Charles Warren Fairbanks,M,1852-05-11,05-11,Taurus,#008000,Earth,#8B4513,viceprez,Republican,1905-03-04,1909-03-04,52,56,"4 years, 0 months, 0 days",4.0
+Theodore Roosevelt,M,1858-10-27,10-27,Scorpio,#000000,Water,#4682B4,viceprez,Republican,1901-03-04,1901-09-14,42,42,"0 years, 6 months, 10 days",0.53
+Theodore Roosevelt,M,1858-10-27,10-27,Scorpio,#000000,Water,#4682B4,prez,Republican,1901-09-14,1905-03-04,42,46,"3 years, 5 months, 18 days",3.47
+Theodore Roosevelt,M,1858-10-27,10-27,Scorpio,#000000,Water,#4682B4,prez,Republican,1905-03-04,1909-03-04,46,50,"4 years, 0 months, 0 days",4.0
+James Schoolcraft Sherman,M,1855-10-24,10-24,Scorpio,#000000,Water,#4682B4,viceprez,Republican,1909-03-04,1912-10-30,53,57,"3 years, 7 months, 26 days",3.66
+William Howard Taft,M,1857-09-15,09-15,Virgo,#A52A2A,Earth,#8B4513,prez,Republican,1909-03-04,1913-03-04,51,55,"4 years, 0 months, 0 days",4.0
+Thomas Riley Marshall,M,1854-03-14,03-14,Pisces,#40E0D0,Water,#4682B4,viceprez,Democrat,1913-03-04,1917-03-04,58,62,"4 years, 0 months, 0 days",4.0
+Thomas Riley Marshall,M,1854-03-14,03-14,Pisces,#40E0D0,Water,#4682B4,viceprez,Democrat,1917-03-04,1921-03-04,62,66,"4 years, 0 months, 0 days",4.0
+Woodrow Wilson,M,1856-12-28,12-28,Capricorn,#556B2F,Earth,#8B4513,prez,Democrat,1913-03-04,1917-03-04,56,60,"4 years, 0 months, 0 days",4.0
+Woodrow Wilson,M,1856-12-28,12-28,Capricorn,#556B2F,Earth,#8B4513,prez,Democrat,1917-03-04,1921-03-04,60,64,"4 years, 0 months, 0 days",4.0
+Warren Gamaliel Harding,M,1865-11-02,11-02,Scorpio,#000000,Water,#4682B4,prez,Republican,1921-03-04,1923-08-02,55,57,"2 years, 4 months, 29 days",2.41
+Charles Gates Dawes,M,1865-08-27,08-27,Virgo,#A52A2A,Earth,#8B4513,viceprez,Republican,1925-03-04,1929-03-04,59,63,"4 years, 0 months, 0 days",4.0
+Calvin Coolidge,M,1872-07-04,07-04,Cancer,#00008B,Water,#4682B4,viceprez,Republican,1921-03-04,1923-08-02,48,51,"2 years, 4 months, 29 days",2.41
+Calvin Coolidge,M,1872-07-04,07-04,Cancer,#00008B,Water,#4682B4,prez,Republican,1923-08-02,1925-03-04,51,52,"1 year, 7 months, 2 days",1.59
+Calvin Coolidge,M,1872-07-04,07-04,Cancer,#00008B,Water,#4682B4,prez,Republican,1925-03-04,1929-03-04,52,56,"4 years, 0 months, 0 days",4.0
+Charles Curtis,M,1860-01-25,01-25,Aquarius,#0000FF,Air,#87CEEB,viceprez,Republican,1929-03-04,1933-03-04,69,73,"4 years, 0 months, 0 days",4.0
+Herbert Clark Hoover,M,1874-08-10,08-10,Leo,#FFA500,Fire,#FF4500,prez,Republican,1929-03-04,1933-03-04,54,58,"4 years, 0 months, 0 days",4.0
+John Nance Garner,M,1868-11-22,11-22,Sagittarius,#800080,Fire,#FF4500,viceprez,Democrat,1933-03-04,1937-01-20,64,68,"3 years, 10 months, 16 days",3.88
+John Nance Garner,M,1868-11-22,11-22,Sagittarius,#800080,Fire,#FF4500,viceprez,Democrat,1937-01-20,1941-01-20,68,72,"4 years, 0 months, 0 days",4.0
+Henry Agard Wallace,M,1888-10-07,10-07,Libra,#FFB6C1,Air,#87CEEB,viceprez,Democrat,1941-01-20,1945-01-20,52,56,"4 years, 0 months, 0 days",4.0
+Franklin Delano Roosevelt,M,1882-01-30,01-30,Aquarius,#0000FF,Air,#87CEEB,prez,Democrat,1933-03-04,1937-01-20,51,54,"3 years, 10 months, 16 days",3.88
+Franklin Delano Roosevelt,M,1882-01-30,01-30,Aquarius,#0000FF,Air,#87CEEB,prez,Democrat,1937-01-20,1941-01-20,54,58,"4 years, 0 months, 0 days",4.0
+Franklin Delano Roosevelt,M,1882-01-30,01-30,Aquarius,#0000FF,Air,#87CEEB,prez,Democrat,1941-01-20,1945-01-20,58,62,"4 years, 0 months, 0 days",4.0
+Franklin Delano Roosevelt,M,1882-01-30,01-30,Aquarius,#0000FF,Air,#87CEEB,prez,Democrat,1945-01-20,1945-04-12,62,63,"0 years, 2 months, 23 days",0.22
+Alben William Barkley,M,1877-11-24,11-24,Sagittarius,#800080,Fire,#FF4500,viceprez,Democrat,1949-01-20,1953-01-20,71,75,"4 years, 0 months, 0 days",4.0
+Harry S. Truman,M,1884-05-08,05-08,Taurus,#008000,Earth,#8B4513,viceprez,Democrat,1945-01-20,1945-04-12,60,60,"0 years, 2 months, 23 days",0.22
+Harry S. Truman,M,1884-05-08,05-08,Taurus,#008000,Earth,#8B4513,prez,Democrat,1945-04-12,1949-01-20,60,64,"3 years, 9 months, 8 days",3.78
+Harry S. Truman,M,1884-05-08,05-08,Taurus,#008000,Earth,#8B4513,prez,Democrat,1949-01-20,1953-01-20,64,68,"4 years, 0 months, 0 days",4.0
+Dwight David Eisenhower,M,1890-10-14,10-14,Libra,#FFB6C1,Air,#87CEEB,prez,Republican,1953-01-20,1957-01-20,62,66,"4 years, 0 months, 0 days",4.0
+Dwight David Eisenhower,M,1890-10-14,10-14,Libra,#FFB6C1,Air,#87CEEB,prez,Republican,1957-01-20,1961-01-20,66,70,"4 years, 0 months, 0 days",4.0
+John Fitzgerald Kennedy,M,1917-05-29,05-29,Gemini,#FFFF00,Air,#87CEEB,prez,Democrat,1961-01-20,1963-11-22,43,46,"2 years, 10 months, 2 days",2.84
+Hubert Horatio Humphrey Jr.,M,1911-05-27,05-27,Gemini,#FFFF00,Air,#87CEEB,viceprez,Democrat,1965-01-20,1969-01-20,53,57,"4 years, 0 months, 0 days",4.0
+Lyndon Baines Johnson,M,1908-08-27,08-27,Virgo,#A52A2A,Earth,#8B4513,viceprez,Democrat,1961-01-20,1963-11-22,52,55,"2 years, 10 months, 2 days",2.84
+Lyndon Baines Johnson,M,1908-08-27,08-27,Virgo,#A52A2A,Earth,#8B4513,prez,Democrat,1963-11-22,1965-01-20,55,56,"1 year, 1 month, 29 days",1.16
+Lyndon Baines Johnson,M,1908-08-27,08-27,Virgo,#A52A2A,Earth,#8B4513,prez,Democrat,1965-01-20,1969-01-20,56,60,"4 years, 0 months, 0 days",4.0
+Spiro Theodore Agnew,M,1918-11-09,11-09,Scorpio,#000000,Water,#4682B4,viceprez,Republican,1969-01-20,1973-01-20,50,54,"4 years, 0 months, 0 days",4.0
+Spiro Theodore Agnew,M,1918-11-09,11-09,Scorpio,#000000,Water,#4682B4,viceprez,Republican,1973-01-20,1973-10-10,54,54,"0 years, 8 months, 20 days",0.72
+Richard Milhous Nixon,M,1913-01-09,01-09,Capricorn,#556B2F,Earth,#8B4513,viceprez,Republican,1953-01-20,1957-01-20,40,44,"4 years, 0 months, 0 days",4.0
+Richard Milhous Nixon,M,1913-01-09,01-09,Capricorn,#556B2F,Earth,#8B4513,viceprez,Republican,1957-01-20,1961-01-20,44,48,"4 years, 0 months, 0 days",4.0
+Richard Milhous Nixon,M,1913-01-09,01-09,Capricorn,#556B2F,Earth,#8B4513,prez,Republican,1969-01-20,1973-01-20,56,60,"4 years, 0 months, 0 days",4.0
+Richard Milhous Nixon,M,1913-01-09,01-09,Capricorn,#556B2F,Earth,#8B4513,prez,Republican,1973-01-20,1974-08-09,60,61,"1 year, 6 months, 20 days",1.55
+Gerald Rudolph Ford Jr.,M,1913-07-14,07-14,Cancer,#00008B,Water,#4682B4,viceprez,Republican,1973-12-06,1974-08-09,60,61,"0 years, 8 months, 3 days",0.67
+Gerald Rudolph Ford Jr.,M,1913-07-14,07-14,Cancer,#00008B,Water,#4682B4,prez,Republican,1974-08-09,1977-01-20,61,63,"2 years, 5 months, 11 days",2.45
+Nelson Aldrich Rockefeller,M,1908-07-08,07-08,Cancer,#00008B,Water,#4682B4,viceprez,Republican,1974-12-19,1977-01-20,66,68,"2 years, 1 month, 1 day",2.09
+Walter Frederick Mondale,M,1928-01-05,01-05,Capricorn,#556B2F,Earth,#8B4513,viceprez,Democrat,1977-01-20,1981-01-20,49,53,"4 years, 0 months, 0 days",4.0
+"James ""Jimmy"" Earl Carter",M,1924-10-01,10-01,Libra,#FFB6C1,Air,#87CEEB,prez,Democrat,1977-01-20,1981-01-20,52,56,"4 years, 0 months, 0 days",4.0
+Ronald Wilson Reagan,M,1911-02-06,02-06,Aquarius,#0000FF,Air,#87CEEB,prez,Republican,1981-01-20,1985-01-20,69,73,"4 years, 0 months, 0 days",4.0
+Ronald Wilson Reagan,M,1911-02-06,02-06,Aquarius,#0000FF,Air,#87CEEB,prez,Republican,1985-01-20,1989-01-20,73,77,"4 years, 0 months, 0 days",4.0
+"James ""Dan"" Danforth Quayle",M,1947-02-04,02-04,Aquarius,#0000FF,Air,#87CEEB,viceprez,Republican,1989-01-20,1993-01-20,41,45,"4 years, 0 months, 0 days",4.0
+George Herbert Walker Bush,M,1924-06-12,06-12,Gemini,#FFFF00,Air,#87CEEB,viceprez,Republican,1981-01-20,1985-01-20,56,60,"4 years, 0 months, 0 days",4.0
+George Herbert Walker Bush,M,1924-06-12,06-12,Gemini,#FFFF00,Air,#87CEEB,viceprez,Republican,1985-01-20,1989-01-20,60,64,"4 years, 0 months, 0 days",4.0
+George Herbert Walker Bush,M,1924-06-12,06-12,Gemini,#FFFF00,Air,#87CEEB,prez,Republican,1989-01-20,1993-01-20,64,68,"4 years, 0 months, 0 days",4.0
+"Albert ""Al"" Arnold Gore Jr.",M,1948-03-31,03-31,Aries,#FF0000,Fire,#FF4500,viceprez,Democrat,1993-01-20,1997-01-20,44,48,"4 years, 0 months, 0 days",4.0
+"Albert ""Al"" Arnold Gore Jr.",M,1948-03-31,03-31,Aries,#FF0000,Fire,#FF4500,viceprez,Democrat,1997-01-20,2001-01-20,48,52,"4 years, 0 months, 0 days",4.0
+"William ""Bill"" Jefferson Clinton",M,1946-08-19,08-19,Leo,#FFA500,Fire,#FF4500,prez,Democrat,1993-01-20,1997-01-20,46,50,"4 years, 0 months, 0 days",4.0
+"William ""Bill"" Jefferson Clinton",M,1946-08-19,08-19,Leo,#FFA500,Fire,#FF4500,prez,Democrat,1997-01-20,2001-01-20,50,54,"4 years, 0 months, 0 days",4.0
+"Richard ""Dick"" Bruce Cheney",M,1941-01-30,01-30,Aquarius,#0000FF,Air,#87CEEB,viceprez,Republican,2001-01-20,2005-01-20,59,63,"4 years, 0 months, 0 days",4.0
+"Richard ""Dick"" Bruce Cheney",M,1941-01-30,01-30,Aquarius,#0000FF,Air,#87CEEB,viceprez,Republican,2005-01-20,2009-01-20,63,67,"4 years, 0 months, 0 days",4.0
+George Walker Bush,M,1946-07-06,07-06,Cancer,#00008B,Water,#4682B4,prez,Republican,2001-01-20,2005-01-20,54,58,"4 years, 0 months, 0 days",4.0
+George Walker Bush,M,1946-07-06,07-06,Cancer,#00008B,Water,#4682B4,prez,Republican,2005-01-20,2009-01-20,58,62,"4 years, 0 months, 0 days",4.0
+"Joseph ""Joe"" Robinette Biden Jr.",M,1942-11-20,11-20,Scorpio,#000000,Water,#4682B4,viceprez,Democrat,2009-01-20,2013-01-20,66,70,"4 years, 0 months, 0 days",4.0
+"Joseph ""Joe"" Robinette Biden Jr.",M,1942-11-20,11-20,Scorpio,#000000,Water,#4682B4,viceprez,Democrat,2013-01-20,2017-01-20,70,74,"4 years, 0 months, 0 days",4.0
+"Joseph ""Joe"" Robinette Biden Jr.",M,1942-11-20,11-20,Scorpio,#000000,Water,#4682B4,prez,Democrat,2021-01-20,2025-01-20,78,82,"4 years, 0 months, 0 days",4.0
+Barack Hussein Obama,M,1961-08-04,08-04,Leo,#FFA500,Fire,#FF4500,prez,Democrat,2009-01-20,2013-01-20,47,51,"4 years, 0 months, 0 days",4.0
+Barack Hussein Obama,M,1961-08-04,08-04,Leo,#FFA500,Fire,#FF4500,prez,Democrat,2013-01-20,2017-01-20,51,55,"4 years, 0 months, 0 days",4.0
+Mike Pence,M,1959-06-07,06-07,Gemini,#FFFF00,Air,#87CEEB,viceprez,Republican,2017-01-20,2021-01-20,57,61,"4 years, 0 months, 0 days",4.0
+Donald J. Trump,M,1946-06-14,06-14,Gemini,#FFFF00,Air,#87CEEB,prez,Republican,2017-01-20,2021-01-20,70,74,"4 years, 0 months, 0 days",4.0
+Donald J. Trump,M,1946-06-14,06-14,Gemini,#FFFF00,Air,#87CEEB,prez,Republican,2025-01-20,2029-01-20,78,82,"4 years, 0 months, 0 days",4.0
+Kamala D. Harris,F,1964-10-20,10-20,Libra,#FFB6C1,Air,#87CEEB,viceprez,Democrat,2021-01-20,2025-01-20,56,60,"4 years, 0 months, 0 days",4.0
+"James David ""J.D."" Vance",M,1984-08-02,08-02,Leo,#FFA500,Fire,#FF4500,viceprez,Republican,2025-01-20,2029-01-20,40,44,"4 years, 0 months, 0 days",4.0
